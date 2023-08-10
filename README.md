@@ -1,7 +1,10 @@
 <<<<<<< HEAD
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made with React and typescript
+After cloning please add .env file with variable   
+REACT_APP_OPEN_WEATHER_API_KEY=YOUR_API_KEY
+Replace YOUR_API_KEY with the value of your API key from Open Weather APi
 
 ## Available Scripts
 
